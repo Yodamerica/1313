@@ -1,0 +1,2 @@
+Game Log:
+Stormtrooper moving to X: 1 Y: 0

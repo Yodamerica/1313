@@ -1,0 +1,24 @@
+Game Log:
+Sor R'anlek shot Stormtrooper with a blaster in the head dealing 90 damage.
+Stormtrooper moving to X: 1 Y: 0
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+
+Wave 1 complete! Your droid has been repaired
+
+Stormtrooper shot Sor R'anlek with a blaster dealing 1 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Stormtrooper moving to X: 1 Y: 2
+Stormtrooper moving to X: 1 Y: 0
+Jedi Bob used the force to attack Stormtrooper dealing 41 damage.
+Jedi Bob used the force to attack Stormtrooper dealing 41 damage.
+Jedi Bob used the force to attack Stormtrooper dealing 41 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster in the head dealing 90 damage.
+Stormtrooper moving to X: 1 Y: 1
+Jedi Bob slashed Stormtrooper with lightsaber dealing 38 damage.
+Stormtrooper shot Sor R'anlek with a blaster dealing 1 damage.
+Jedi Bob slashed Stormtrooper with lightsaber dealing 38 damage.
+
+Wave 1 complete! Your droid has been repaired
+
+Stormtrooper moving to X: 1 Y: 0

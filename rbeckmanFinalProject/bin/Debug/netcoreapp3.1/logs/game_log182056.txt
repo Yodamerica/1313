@@ -1,0 +1,4 @@
+Game Log:
+Stormtrooper shot Super long jedi name with a blaster dealing 16 damage.
+Stormtrooper moving to X: 1 Y: 0
+Stormtrooper shot Sor R'anlek with a blaster dealing 1 damage.

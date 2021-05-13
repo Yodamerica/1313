@@ -1,0 +1,10 @@
+Game Log:
+Stormtrooper moving to X: 1 Y: 0
+Stormtrooper shot Sor R'anlek with a blaster dealing 1 damage.
+Super long jedi name slashed Stormtrooper with lightsaber dealing 38 damage.
+Super long jedi name slashed past Stormtrooper's armor with lightsaber dealing 42 damage.
+Super long jedi name slashed Stormtrooper with lightsaber dealing 38 damage.
+
+Wave 1 complete! Your droid has been repaired
+
+Super long jedi name slashed Stormtrooper with lightsaber dealing 38 damage.

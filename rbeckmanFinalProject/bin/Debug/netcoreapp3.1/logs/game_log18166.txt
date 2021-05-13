@@ -1,0 +1,9 @@
+Game Log:
+Super long jedi name slashed Stormtrooper with lightsaber dealing 38 damage.
+Stormtrooper shot Super long jedi name with a blaster dealing 16 damage.
+Super long jedi name slashed Stormtrooper with lightsaber dealing 38 damage.
+Super long jedi name slashed Stormtrooper with lightsaber dealing 38 damage.
+
+Wave 1 complete! Your droid has been repaired
+
+rbeckmanFinalProject.SecurityDroid moving to X: 1 Y: 0

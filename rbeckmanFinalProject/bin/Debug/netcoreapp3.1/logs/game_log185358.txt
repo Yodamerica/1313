@@ -1,0 +1,3 @@
+Game Log:
+Stormtrooper shot BH-18 with a blaster dealing 10 damage.
+Stormtrooper moving to X: 1 Y: 0

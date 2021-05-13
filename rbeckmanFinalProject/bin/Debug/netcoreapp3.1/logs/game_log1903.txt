@@ -1,0 +1,156 @@
+Game Log:
+Stormtrooper shot Jedi Bob with a blaster dealing 16 damage.
+Stormtrooper shot BH-18 with a blaster dealing 10 damage.
+Stormtrooper moving to X: 1 Y: 0
+Stormtrooper shot Sor R'anlek with a blaster dealing 1 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+
+Wave 1 complete! Your droid has been repaired
+
+Jedi Bob used the force to attack Stormtrooper dealing 41 damage.
+Jedi Bob used the force to attack Stormtrooper dealing 41 damage.
+Jedi Bob used the force to attack Stormtrooper dealing 41 damage.
+Stormtrooper shot Jedi Bob with a blaster dealing 16 damage.
+Stormtrooper shot Jedi Bob with a blaster dealing 16 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Stormtrooper moving to X: 1 Y: 0
+Jedi Bob used the force to attack Stormtrooper dealing 41 damage.
+Jedi Bob used the force to attack Stormtrooper dealing 41 damage.
+Stormtrooper shot Jedi Bob with a blaster dealing 16 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+
+Wave 2 complete! Your droid has been repaired
+
+Security Droid moving to X: 0 Y: 1
+Security Droid moving to X: 0 Y: 1
+Security Droid moving to X: 1 Y: 1
+Security Droid moving to X: 0 Y: 1
+Jedi Bob slashed Security Droid with lightsaber dealing 42 damage.
+Security Droid moving to X: 1 Y: 1
+Security Droid moving to X: 1 Y: 1
+Jedi Bob used the force to attack Security Droid dealing 48 damage.
+Jedi Bob used the force to attack Security Droid dealing 48 damage.
+Security Droid moving to X: 2 Y: 2
+Security Droid moving to X: 2 Y: 0
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+Security Droid melee hit Sor R'anlek dealing 5 damage.
+Security Droid knocked down Sor R'anlek dealing 25 damage.
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+Security Droid moving to X: 1 Y: 2
+Security Droid moving to X: 0 Y: 2
+Jedi Bob used the force to attack Security Droid dealing 48 damage.
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+
+Wave 3 complete! Your droid has been repaired
+
+Stormtrooper moving to X: 1 Y: 1
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Security Droid moving to X: 1 Y: 1
+Jedi Bob slashed Security Droid with lightsaber dealing 42 damage.
+Security Droid moving to X: 0 Y: 1
+Jedi Bob used the force to attack Security Droid dealing 48 damage.
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+
+Wave 4 complete! Your droid has been repaired
+
+Stormtrooper moving to X: 1 Y: 0
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster in the head dealing 90 damage.
+
+Wave 5 complete! Your droid has been repaired
+
+Security Droid moving to X: 0 Y: 0
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+Security Droid moving to X: 0 Y: 1
+Security Droid moving to X: 0 Y: 0
+Jedi Bob used the force to attack Security Droid dealing 48 damage.
+Security Droid moving to X: 0 Y: 0
+Jedi Bob slashed Security Droid with lightsaber dealing 42 damage.
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+
+Wave 6 complete! Your droid has been repaired
+
+Security Droid moving to X: 0 Y: 2
+Security Droid moving to X: 0 Y: 2
+Jedi Bob used the force to attack Stormtrooper dealing 41 damage.
+Jedi Bob used the force to attack Stormtrooper dealing 41 damage.
+Jedi Bob used the force to attack Security Droid dealing 48 damage.
+Stormtrooper moving to X: 1 Y: 0
+Stormtrooper shot BH-18 with a blaster dealing 10 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Security Droid moving to X: 0 Y: 2
+Stormtrooper moving to X: 1 Y: 1
+Jedi Bob slashed Stormtrooper with lightsaber dealing 38 damage.
+Jedi Bob used the force to attack Security Droid dealing 48 damage.
+Security Droid moving to X: 0 Y: 2
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+
+Wave 7 complete! Your droid has been repaired
+
+Security Droid moving to X: 1 Y: 1
+Jedi Bob used the force to attack Security Droid dealing 48 damage.
+Jedi Bob used the force to attack Security Droid dealing 48 damage.
+Security Droid moving to X: 2 Y: 0
+Security Droid moving to X: 1 Y: 0
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+Security Droid moving to X: 1 Y: 0
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+Security Droid moving to X: 1 Y: 1
+Security Droid moving to X: 0 Y: 1
+Security Droid moving to X: 2 Y: 1
+Security Droid moving to X: 0 Y: 1
+Security Droid moving to X: 0 Y: 1
+Security Droid moving to X: 1 Y: 1
+Security Droid moving to X: 1 Y: 1
+Security Droid moving to X: 0 Y: 1
+Jedi Bob used the force to attack Security Droid dealing 48 damage.
+Jedi Bob used the force to attack Security Droid dealing 48 damage.
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+
+Wave 8 complete! Your droid has been repaired
+
+Stormtrooper shot Jedi Bob with a blaster dealing 16 damage.
+Stormtrooper shot Sor R'anlek with a blaster dealing 1 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+
+Wave 9 complete! Your droid has been repaired
+
+Third Brother moving to X: 1 Y: 1
+Jedi Bob slashed Third Brother with lightsaber dealing 25 damage.
+Third Brother used the force to attack Jedi Bob dealing 14 damage.
+Third Brother used the force to attack Sor R'anlek dealing 33 damage.
+Third Brother used the force to attack BH-18 dealing 40 damage.
+Jedi Bob slashed Third Brother with lightsaber dealing 25 damage.
+Third Brother used lightsaber to block blaster attack by Sor R'anlek damage.
+Third Brother moving to X: 2 Y: 0
+Jedi Bob used the force to attack Third Brother dealing 21 damage.
+Sor R'anlek shot Third Brother with a blaster dealing 30 damage.
+
+Wave 10 complete! Your droid has been repaired
+
+Stormtrooper shot BH-18 with a blaster dealing 10 damage.
+Stormtrooper shot Jedi Bob with a blaster dealing 16 damage.
+Stormtrooper shot Jedi Bob with a blaster dealing 16 damage.
+Stormtrooper moving to X: 1 Y: 0
+Stormtrooper shot Jedi Bob with a blaster dealing 16 damage.
+Jedi Bob slashed Stormtrooper with lightsaber dealing 38 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Jedi Bob slashed Stormtrooper with lightsaber dealing 38 damage.
+
+Wave 11 complete! Your droid has been repaired
+

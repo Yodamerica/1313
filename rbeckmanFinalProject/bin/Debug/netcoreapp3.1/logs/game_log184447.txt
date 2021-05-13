@@ -1,0 +1,15 @@
+Game Log:
+Stormtrooper moving to X: 1 Y: 0
+Jedi Bob slashed Stormtrooper with lightsaber dealing 38 damage.
+Jedi Bob slashed Stormtrooper with lightsaber dealing 38 damage.
+Jedi Bob slashed Stormtrooper with lightsaber dealing 38 damage.
+
+Wave 1 complete! Your droid has been repaired
+
+Security Droid moving to X: 1 Y: 0
+Security Droid moving to X: 0 Y: 1
+Jedi Bob slashed Security Droid with lightsaber dealing 42 damage.
+Security Droid moving to X: 0 Y: 1
+Security Droid moving to X: 2 Y: 2
+Jedi Bob slashed Security Droid with lightsaber dealing 42 damage.
+Jedi Bob slashed Security Droid with lightsaber dealing 42 damage.

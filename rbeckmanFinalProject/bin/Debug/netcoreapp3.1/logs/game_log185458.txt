@@ -1,0 +1,17 @@
+Game Log:
+Stormtrooper shot BH-18 with a blaster dealing 10 damage.
+Jedi Bob slashed Stormtrooper with lightsaber dealing 38 damage.
+Jedi Bob slashed Stormtrooper with lightsaber dealing 38 damage.
+Stormtrooper moving to X: 0 Y: 0
+Jedi Bob slashed Stormtrooper with lightsaber dealing 38 damage.
+
+Wave 1 complete! Your droid has been repaired
+
+Security Droid moving to X: 0 Y: 0
+Security Droid melee hit Jedi Bob dealing 45 damage.
+Jedi Bob slashed Security Droid with lightsaber dealing 42 damage.
+Jedi Bob slashed Security Droid with lightsaber dealing 42 damage.
+Jedi Bob slashed Security Droid with lightsaber dealing 42 damage.
+
+Wave 1 complete! Your droid has been repaired
+

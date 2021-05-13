@@ -1,0 +1,28 @@
+Game Log:
+Third Brother used the force to attack Jedi Bob dealing 14 damage.
+Third Brother used the force to attack Sor R'anlek dealing 33 damage.
+Third Brother used the force to attack BH-18 dealing 40 damage.
+Third Brother used the force to attack Jedi Bob dealing 14 damage.
+Third Brother used the force to attack Sor R'anlek dealing 33 damage.
+Third Brother used the force to attack BH-18 dealing 40 damage.
+Third Brother slashed BH-18 with lightsaber dealing 38 damage.
+
+Game Over! A member of your crew died.
+
+Third Brother used the force to attack Jedi Bob dealing 14 damage.
+Third Brother used the force to attack Sor R'anlek dealing 33 damage.
+Third Brother used the force to attack BH-18 dealing 40 damage.
+Third Brother used the force to attack Jedi Bob dealing 14 damage.
+Third Brother used the force to attack Sor R'anlek dealing 33 damage.
+Third Brother used the force to attack BH-18 dealing 40 damage.
+Third Brother moving to X: 1 Y: 1
+Third Brother slashed Jedi Bob with lightsaber dealing 34 damage.
+Third Brother used the force to attack Jedi Bob dealing 14 damage.
+Third Brother used the force to attack Sor R'anlek dealing 33 damage.
+Third Brother used the force to attack BH-18 dealing 40 damage.
+
+Game Over! A member of your crew died.
+
+Third Brother moving to X: 2 Y: 2
+Third Brother moving to X: 1 Y: 1
+Third Brother slashed Jedi Bob with lightsaber dealing 34 damage.

@@ -1,0 +1,34 @@
+Game Log:
+Stormtrooper moving to X: 1 Y: 0
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+Sor R'anlek shot Stormtrooper with a blaster dealing 45 damage.
+
+Wave 1 complete! Your droid has been repaired
+
+Super long jedi name slashed Security Droid with lightsaber dealing 42 damage.
+Super long jedi name slashed Security Droid with lightsaber dealing 42 damage.
+Security Droid moving to X: 0 Y: 0
+Super long jedi name slashed Security Droid with lightsaber dealing 42 damage.
+
+Wave 1 complete! Your droid has been repaired
+
+Security Droid moving to X: 2 Y: 2
+Security Droid melee hit BH-18 dealing 30 damage.
+Security Droid moving to X: 2 Y: 0
+Security Droid melee hit Super long jedi name dealing 45 damage.
+Security Droid knocked down Super long jedi name dealing 25 damage.
+Security Droid moving to X: 2 Y: 2
+Security Droid moving to X: 2 Y: 0
+Super long jedi name slashed Security Droid with lightsaber dealing 42 damage.
+Stormtrooper moving to X: 1 Y: 1
+Security Droid moving to X: 0 Y: 0
+Security Droid moving to X: 0 Y: 0
+Super long jedi name slashed Security Droid with lightsaber dealing 42 damage.
+Security Droid moving to X: 2 Y: 2
+Security Droid moving to X: 2 Y: 0
+Super long jedi name slashed Security Droid with lightsaber dealing 42 damage.
+Security Droid moving to X: 2 Y: 2
+Sor R'anlek shot Security Droid with a blaster dealing 5 damage.
+Security Droid melee hit BH-18 dealing 30 damage.
+Security Droid knocked down BH-18 dealing 25 damage.
