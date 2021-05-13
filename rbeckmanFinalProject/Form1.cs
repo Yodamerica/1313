@@ -42,7 +42,7 @@ namespace rbeckmanFinalProject
             
             string time = DateTime.Now.Hour.ToString() + DateTime.Now.Minute.ToString() + DateTime.Now.Second.ToString();
 
-            Entity.filename = Environment.CurrentDirectory + @"/logs/game_log" + @time + ".txt";
+            Entity.filename = Environment.CurrentDirectory + @"/logs/game_log" + @time + ".log";
 
             using(StreamWriter log = File.CreateText(Entity.filename))
             {
@@ -103,6 +103,9 @@ namespace rbeckmanFinalProject
             rightBtn.Click += RightBtn_Click;
             leftBtn.Click += LeftBtn_Click;
 
+            this.KeyPreview = true;
+            this.KeyPress+= Game_KeyPress;
+
             empire.MoveAI += EnemyMove;
 
             radioBtnMandalorian.Checked = false;
@@ -112,6 +115,44 @@ namespace rbeckmanFinalProject
             jediActionBar.Maximum = jedi.entity.ActTime;
             droidActionBar.Maximum = droid.entity.ActTime;
 
+        }
+
+        /// <summary>
+        /// Event handler for keypress
+        /// currently controls move (wasd) and hero selection (1,2,3)
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void Game_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == 'w')
+            {
+                MoveUp(selected);
+            }
+            else if (e.KeyChar == 'a')
+            {
+                MoveLeft(selected);
+            }
+            else if (e.KeyChar == 's')
+            {
+                MoveDown(selected);
+            }
+            else if (e.KeyChar == 'd')
+            {
+                MoveRight(selected);
+            }
+            else if (e.KeyChar == '1')
+            {
+                radioBtnMandalorian.Checked = true;
+            }
+            else if (e.KeyChar == '2')
+            {
+                radioBtnJedi.Checked = true;
+            }
+            else if (e.KeyChar == '3')
+            {
+                radioBtnDroid.Checked = true;
+            }
         }
 
         #region Spawn Methods
@@ -282,12 +323,20 @@ namespace rbeckmanFinalProject
                         wave = 1;
                         outputLabel.Text = $"Wave {wave}";
                         outputLabel.Refresh();
+
+                        foreach (EntityControl enemy in empire.ImperialControls)
+                        {
+                            BattleGrid.Controls.Remove(enemy);
+                        }
+                        empire.ImperialControls = new List<EntityControl>();
+
                         BattleGrid.Controls.Remove(mandalorian);
                         BattleGrid.Controls.Remove(jedi);
                         BattleGrid.Controls.Remove(droid);
                         SpawnMandalorian();
                         SpawnJedi();
                         SpawnDroid();
+                        SpawnStormtrooper();
                         empire.Rebels = new List<Entity>() { jedi.entity, mandalorian.entity, droid.entity };
                         rightBtn.Enabled = true;
                         leftBtn.Enabled = true;

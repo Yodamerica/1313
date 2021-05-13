@@ -51,12 +51,16 @@ namespace rbeckmanFinalProject
         {
             if (entity.Health <= 0)
             {
+                entityHealthBar.Value = 0;
+                entityHealthLabel.Text = "0";
+                entityHealthLabel.Refresh();
                 return false;
             }
             else
             {
                 entityHealthBar.Value = entity.Health;
                 entityHealthLabel.Text = $"{entity.Health}";
+                entityHealthLabel.Refresh();
                 return true;
             }
         }

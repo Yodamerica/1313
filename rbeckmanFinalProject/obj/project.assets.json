@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\rbeckmanFinalProject\\rbeckmanFinalProject\\rbeckmanFinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\1313\\rbeckmanFinalProject\\rbeckmanFinalProject.csproj",
       "projectName": "rbeckmanFinalProject",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\rbeckmanFinalProject\\rbeckmanFinalProject\\rbeckmanFinalProject.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\1313\\rbeckmanFinalProject\\rbeckmanFinalProject.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\rbeckmanFinalProject\\rbeckmanFinalProject\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\1313\\rbeckmanFinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
